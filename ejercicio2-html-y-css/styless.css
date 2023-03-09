@@ -26,6 +26,7 @@
     padding: 7px;
     }
     
+
     /* Para 980px */
     @media screen and (max-width: 980px) and (min-width: 821px) {  .containerform{
         width: 340px;
@@ -33,7 +34,6 @@
         background: linear-gradient(#070607,#6b4cf5);}
     
     }  
-    
     
     /* Para 800px */  
     @media screen and (max-width: 820px) and (min-width: 621px) {  .containerform{
